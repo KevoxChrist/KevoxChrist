@@ -1,12 +1,12 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+<br clear="both">
+
+<h2 align="center">It's Kev the Engineer here👋🏽 🤓</h2>
 
 ###
 
-<br clear="both">
-
-<h2 align="center">Friendly Neighborhood Software Developer Here 🤓⌨️</h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
@@ -72,18 +72,16 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevoxChrist/KevoxChrist/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevoxChrist/KevoxChrist/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KevoxChrist/KevoxChrist/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/kevin-anderson-06a09929b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJzdXh3NWlyZXcxNWY0a2F3b3Jxb3h4enJiNmZ2aGNtZ3VudGExYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDwMulrzSnSM/giphy.gif"  />
 </div>
 
 ###
