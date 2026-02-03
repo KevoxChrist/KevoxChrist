@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">My favorite tech stack to build in is React, Java, SpringBoot, and MongoDB.</h4>
+<h4 align="left">My favorite tech stack to build in is React, Java, SpringBoot, and MySQL.</h4>
 
 ###
 
