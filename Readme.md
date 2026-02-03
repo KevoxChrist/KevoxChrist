@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">My main tech stack is React, Node, Express, and MySQL/MongoDB.</h4>
+<h4 align="left">My main tech stack is React, Node, Express, and MySQL.</h4>
 
 ###
 
@@ -61,7 +61,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> -->
 </div>
 
 ###
